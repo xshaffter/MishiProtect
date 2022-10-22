@@ -1,0 +1,5 @@
+DB_TYPE: 'sqlite'
+DB_NAME: 'MishiProtect.sqlite3'
+DB_HOST: 'db_612296'
+DB_USERNAME: 'db_612296'
+DB_PASSWORD: 'db_612296'

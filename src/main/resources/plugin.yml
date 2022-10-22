@@ -1,0 +1,9 @@
+name: Mishiprotect
+version: '${project.version}'
+main: com.xshaffter.mishiprotect.Mishiprotect
+api-version: 1.19
+authors: [ xshaffter ]
+description: A plugin that protects an area based on block placement
+commands:
+  mishi_book:
+    description: MishiProtect access point
